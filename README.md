@@ -10,9 +10,7 @@ I created this repository to document what I learned, practice Git commands, and
 
 I learned these concepts from the following Git & GitHub course:
 
-**▶️ [Watch the Git & GitHub Course](https://www.youtube.com/watch?v=VIDEO_ID)**
-
-> Replace `VIDEO_ID` with the actual YouTube video ID.
+**▶️ [Watch the Git & GitHub Course]([https://www.youtube.com/watch?v=VIDEO_ID](https://youtu.be/roA-RnZa7Og?si=hhzmewmwNk-bXXol))**
 
 ---
 
