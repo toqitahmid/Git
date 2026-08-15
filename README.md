@@ -6,14 +6,6 @@ I created this repository to document what I learned, practice Git commands, and
 
 ---
 
-## 🎥 Learning Resource
-
-I learned these concepts from the following Git & GitHub course:
-
-**▶️ [Watch the Git & GitHub Course]([https://www.youtube.com/watch?v=VIDEO_ID](https://youtu.be/roA-RnZa7Og?si=hhzmewmwNk-bXXol))**
-
----
-
 ## 📚 What I Learned
 
 ## 1. Git vs GitHub
